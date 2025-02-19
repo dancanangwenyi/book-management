@@ -6,7 +6,7 @@ spring:
     name: BOOK-SERVICE
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/books_db
+    url: jdbc:postgresql://localhost:5432/mtech_books_db
     username: postgres
     password: 123456
     driver-class-name: org.postgresql.Driver
